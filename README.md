@@ -18,6 +18,8 @@ Settings -> Apps and sales channels -> Develop apps for your store -> Allow cust
 
 Settings -> Apps and sales channels -> Develop apps for your store -> Create an app
 
+![Alt text](shopify-api-1-2.png "Create an app")
+
 Settings -> Apps and sales channels -> Develop apps for your store -> (The name of the app you created) -> API credentials
 
 Reveal token once
@@ -28,7 +30,7 @@ Example Shopify admin url: https://1x999.myshopify.com/
 
 ```java
 String subdomain = "1x999";
-String accessToken = "shpat_abcd1234xyxz56789";
+String accessToken = "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";
 
 final ShopifySdk shopifySdk = ShopifySdk.newBuilder()
   .withSubdomain(subdomain)
