@@ -24,9 +24,9 @@ Settings -> Apps and sales channels -> Develop apps for your store -> (The name 
 
 Reveal token once
 
-Example Shopify admin url: https://1x999.myshopify.com/
-
 ![Alt text](/docs/images/shopify-api-4.png "Access Token")
+
+Example Shopify admin url: https://1x999.myshopify.com/
 
 ```java
 String subdomain = "1x999";
