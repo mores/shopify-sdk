@@ -12,10 +12,12 @@ Java SDK for Shopify REST APIs
 
 ## Quickstart
 Settings -> Apps and sales channels -> Develop apps for your store -> Allow custom app development
-                                                                   -> Create an app
-                                                                   -> (The name of the app you created)
-													-> API credentials
-													Reveal token once
+
+Settings -> Apps and sales channels -> Develop apps for your store -> Create an app
+
+Settings -> Apps and sales channels -> Develop apps for your store -> (The name of the app you created) -> API credentials
+Reveal token once
+
 Example Shopify admin url: https://1x999.myshopify.com/
 Example Shopify admin token: shpat_abcd1234xyxz56789
 
