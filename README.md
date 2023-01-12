@@ -11,9 +11,21 @@ Java SDK for Shopify REST APIs
 
 
 ## Quickstart
+Settings -> Apps and sales channels -> Develop apps for your store -> Allow custom app development
+                                                                   -> Create an app
+                                                                   -> (The name of the app you created)
+													-> API credentials
+													Reveal token once
+Example Shopify admin url: https://1x999.myshopify.com/
+Example Shopify admin token: shpat_abcd1234xyxz56789
+
+
 Creating SDK with store subdomain and access token, then making a sample call:
 
 ```java
+String subdomain = "1x999";
+String accessToken = "shpat_abcd1234xyxz56789";
+
 final ShopifySdk shopifySdk = ShopifySdk.newBuilder()
   .withSubdomain(subdomain)
   .withAccessToken(accessToken).build();
