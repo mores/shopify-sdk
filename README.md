@@ -18,7 +18,7 @@ Settings -> Apps and sales channels -> Develop apps for your store -> Allow cust
 
 Settings -> Apps and sales channels -> Develop apps for your store -> Create an app
 
-![Alt text](shopify-api-1-2.png "Create an app")
+![Alt text](/docs/images/shopify-api-1-2.png "Create an app")
 
 Settings -> Apps and sales channels -> Develop apps for your store -> (The name of the app you created) -> API credentials
 
