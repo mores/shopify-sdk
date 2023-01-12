@@ -24,7 +24,7 @@ Reveal token once
 
 Example Shopify admin url: https://1x999.myshopify.com/
 
-Example Shopify admin token: shpat_abcd1234xyxz56789
+![Alt text](/docs/images/shopify-api-4.png "Access Token")
 
 ```java
 String subdomain = "1x999";
